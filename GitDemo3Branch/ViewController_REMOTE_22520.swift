@@ -19,5 +19,12 @@ class ViewController: UIViewController {
         print("NewFeatureY Change now 9902 NewFeatureY 16:38")
         print("NewFeatureY Change now 9902 NewFeatureY 16:57 Change in WWW")
     }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+
 }
 
