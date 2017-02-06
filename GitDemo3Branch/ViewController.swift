@@ -16,13 +16,8 @@ class ViewController: UIViewController {
         print("NewFeatureY")
         print("New Branch with GitHub")
         print("New Branch with GitHub990")
+        print("New Branch with GitHub990 NewFeatureY 16:46")
+        
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
