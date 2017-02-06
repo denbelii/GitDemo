@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         ///////////////////////////
         print("NewFeatureY")
+        print("New Branch with GitHub")
     }
 
     override func didReceiveMemoryWarning() {
